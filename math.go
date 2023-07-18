@@ -1,4 +1,4 @@
-package math
+package helper_math
 
 func GetFactorial(value int) int {
 	if value == 1 {
